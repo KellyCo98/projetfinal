@@ -7,4 +7,5 @@ Ministère de la Culture. "Liseuse" [en ligne]. In _FranceTerme_. mis à jour le
 ![image](images/definition2.JPG)
 
 ## Le livre numérique
-
+Ministère de la Culture. "Livre numérique" [en ligne]. In _FranceTerme_. mis à jour le 4 avril 2012 [consulté le 18 mai 2020]. Disponible sur le Web : <http://www.culture.fr/franceterme/terme/COGE784?from=list&francetermeSearchTerme=&francetermeSearchDomaine=>
+![image](images/definition3.JPG)
