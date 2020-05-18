@@ -9,5 +9,6 @@ La-Liseuse. "L'encre électronique" [en ligne]. In _La-Liseuse_. 2017 [consulté
 
 ![image](images/fonctionnement2.JPG)
 
-Web
+ECRAN FLEXIBLE. "Encre électronique (technologie). In _EcranFlexible_. s.d. [consulté le 18 mai 2020]. Disponible sur le Web : <https://www.ecranflexible.com/encre-electronique-e-paper>
+
 ![image](images/fonctionnement3.jpg)
