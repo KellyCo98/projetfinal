@@ -1,5 +1,7 @@
 # Le succès de la liseuse et des livres numériques
 
+Le Soir Plus. " Le marché du livre est en croissance continue " [en ligne]. In _Le Soir Plus_
+
 ![image](images/succes1.JPG)
 
 ![image](images/succes2.JPG)
