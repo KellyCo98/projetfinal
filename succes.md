@@ -11,3 +11,10 @@ VOOS, Audrey. " Les chiffres du livres numériques en France : étude GfK et 9e 
 
 ## Le prêt en bibliothèque
 
+Fédération Wallonie-Bruxelles. " Le prêt en bibliothèque publique, mais aussi en numérique " [en ligne]. In _Fédération Wallonie-Bruxelles_. 7 août 2015 [consulté le 30 mai 2020]. Disponible sur le Web : <http://www.federation-wallonie-bruxelles.be/index.php?id=detail_article&no_cache=1&tx_cfwbarticlefe_cfwbarticlefront%5Baction%5D=show&tx_cfwbarticlefe_cfwbarticlefront%5Bcontroller%5D=Document&tx_cfwbarticlefe_cfwbarticlefront%5Bpublication%5D=964&cHash=c1a49278999ea1e89622402808b04533> 
+
+![image](images/succes5.JPG)
+
+Fédération Wallonie-Bruxelles. " Lirtuel - Modalités d'inscription et de prêt " [en ligne]. In _Fédération Wallonie-Bruxelles_. s.d. [consulté le 30 mai 2020]. Disponible sur le Web : <http://www.bibliotheques.be/index.php?id=16129>
+
+![image](images/succes6.JPG)
